@@ -1,3 +1,3 @@
-The code for the paper "Oscillatory Control over Representational Geometry of Sequence Working Memory in Macaque Frontal Cortex". The code used for TDR analysis is cited from the article 'Context-dependent computation by recurrrent dynamics in prefrontal cortex' by Mante, Sussillo, Shenoy, and Newsome, Nature, 2013.
+The code for the paper "Oscillatory Control over Representational Geometry of Sequence Working Memory in Macaque Frontal Cortex". The code used for TDR analysis is adopted from the article 'Context-dependent computation by recurrrent dynamics in prefrontal cortex' by Mante, Sussillo, Shenoy, and Newsome, Nature, 2013.
 The example data has been uploaded to "https://doi.org/10.57760/sciencedb.20866", and full access will be fulfilled by sending email of reasonable request to lead corresponding author.
 
